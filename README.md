@@ -2,12 +2,13 @@
 A fully responsive Pokémon web application built with React. This project fetches data from the PokéAPI, displays Pokémon cards, and includes a live search functionality to filter Pokémon by name.
 
 # Features
-⚡ Built with React JS
-📱 Fully responsive design (mobile-first)
-🔍 Live search functionality to filter Pokémon by name
-📊 Clean and modern UI
-📦 Data fetched from the PokéAPI
-📸 Displays Pokémon images, names, and details
+⚡ Built with React JS  
+📱 Fully responsive design (mobile-first)  
+🔍 Live search functionality to filter Pokémon by name  
+📊 Clean and modern UI  
+📦 Data fetched from the PokéAPI  
+📸 Displays Pokémon images, names, and details  
+
 
 # Screenshots
 
