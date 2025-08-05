@@ -1,5 +1,5 @@
 # React-Project
-A fully responsive Pokémon web application built with React. This project fetches data from the [PokéAPI](https://pokeapi.co/api/v2/pokemon?limit=124), displays Pokémon cards, and includes a live search functionality to filter Pokémon by name.
+A fully responsive Pokémon web application built with React. This project fetches data from the [PokéAPI](https://pokeapi.co/api/v2/pokemon?limit=124), displays Pokémon cards, and includes a live search functionality to filter Pokémon by name.It's a basic project to understand useEffect() hook in react how to wrok it as well as understand searching functionally.
 
 # Features:
 ⚡ Built with React JS 
