@@ -8,7 +8,7 @@ A fully responsive Pokémon web application built with React. This project fetch
 📦 Data fetched from the PokéAPI 
 📸 Displays Pokémon images, names, and details 
 
-It will takes a lost of time but in future get more
+
 # Screenshots
 
 ![image](https://github.com/user-attachments/assets/1f5bf232-47f0-41a2-ae68-b637705dee05)
